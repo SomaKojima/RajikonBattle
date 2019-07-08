@@ -1,0 +1,42 @@
+﻿  Resources\FBX\bullet.FBX
+  Resources\FBX\bullet2.FBX
+  Resources\FBX\car.FBX
+  Resources\FBX\car_body.FBX
+  Resources\FBX\car_cannon.FBX
+  Resources\FBX\room.FBX
+  Resources\FBX\skydome.FBX
+  Resources\FBX\stadium.FBX
+  Game.cpp
+  PlayerController.cpp
+  PlayerBullet.cpp
+  PlayScene.cpp
+  TitleScene.cpp
+     ライブラリ C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\3DPrograming.lib とオブジェクト C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\3DPrograming.exp を作成中
+  コード生成しています。
+  128 of 2909 functions ( 4.4%) were compiled, the rest were copied from previous compilation.
+    13 functions were new in current compilation
+    70 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+directxtk.lib(BasicEffect.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(BasicEffect.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(CommonStates.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(CommonStates.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(DDSTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(DDSTextureLoader.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(DGSLEffect.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(DGSLEffect.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(DualTextureEffect.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(DualTextureEffect.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(BinaryReader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(BinaryReader.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(EffectCommon.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(EffectCommon.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(EffectFactory.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(EffectFactory.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(Keyboard.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(Keyboard.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(Model.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(Model.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(ModelLoadCMO.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(ModelLoadCMO.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(Mouse.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(Mouse.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(NormalMapEffect.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(NormalMapEffect.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(pch.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(SimpleMath.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(SimpleMath.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(SkinnedEffect.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(SkinnedEffect.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(SpriteBatch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(SpriteBatch.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(PrimitiveBatch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(PrimitiveBatch.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(SpriteFont.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(SpriteFont.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(VertexTypes.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(VertexTypes.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+directxtk.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'directxtk.lib(WICTextureLoader.obj)' で、または 'C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  3DPrograming.vcxproj -> C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\3DPrograming.exe
+  3DPrograming.vcxproj -> C:\Users\s172074\Documents\SourceTree\test\3DPrograming_ver3-master\Release\3DPrograming.pdb (Full PDB)
